@@ -1,0 +1,2 @@
+[1206/033639.525:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказ доступа} Процесс запросил доступ к объекту, однако права доступа не предоставлены. (0xc0000022)
+[1206/033639.927:ERROR:exception_snapshot_win.cc(98)] thread ID 6316 not found in process
